@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @faturrumahan
-- 👀 I’m interested in tech and photo/video-graphy
+- 👋 Hi, I’m Fathurrohman a.k.a faturrumahan
+- 👀 I’m interested with any stuff about web development
 - 🌱 I’m currently learning all about my interests stuff
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me via instagram.com/faturrumahan
 
 <!---
 faturrumahan/faturrumahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
