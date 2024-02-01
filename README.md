@@ -1,4 +1,3 @@
-@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Fathurrohman a.k.a faturrumahan
 - 👀 I’m interested with any stuff about web development
 - 🌱 I’m currently learning all about my interests stuff
