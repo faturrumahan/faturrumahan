@@ -41,9 +41,9 @@ I'm a big fan of teamwork! I believe the coolest solutions often bloom when bril
 🤝 Let's Connect (and Maybe Code!)
 If anything here sparks your interest, or if you just want to chat about tech, share some wisdom, or even kick off an exciting collaboration, don't be a stranger! Let's connect and make some digital magic happen.
 
-[[Your LinkedIn Profile URL]](https://www.linkedin.com/in/fathurrohman07/)
+[[LinkedIn]](https://www.linkedin.com/in/fathurrohman07/)
 
-[[Your Personal Website/Blog URL (if you have one)]](https://faturrumahan-v3.vercel.app/)
+[[Personal Site]](https://faturrumahan-v3.vercel.app/)
 
 🙏 A Big Thank You!
 Thanks a bunch for dropping by! May your own journey be filled with peace, purpose, and endless, joyful learning. Keep coding, keep smiling! 😊
