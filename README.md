@@ -1,51 +1,76 @@
-👋 Hey there, awesome human! Welcome to My Digital Playground! ✨
-Take a deep breath, maybe do a little stretch! You've stumbled upon my little corner of the internet where code meets calm, and learning is always an adventure. I'm all about building cool stuff with a sprinkle of intention and a whole lot of good vibes. 🚀
+<div align="center">
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXl2cGZuZWVzdXo4Zjd3ZGNwbm52Zzk4Y3Q1MTJqbHFocmo2NG9rdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lopx9eUi34rbq/giphy.gif"  />
+</div>
 
-🧘 My Journey: From Lines to Laughter (and Learning!)
-I truly believe that coding is a superpower, and learning is the ultimate quest. My journey in tech isn't just about shipping features (though I love that too!); it's about the thrilling process: those "aha!" moments when a bug finally surrenders, the pure joy of crafting something new, and the continuous dance of discovery.
+###
 
-As a junior developer with 1 year of professional experience, I've been diving headfirst into the exciting world of JavaScript. My playgrounds of choice? Web development with Next.js (making those pixels pop! 🎨) and mobile applications with React Native (bringing ideas to your fingertips! 📱). This past year has been an epic level-up, showing me the magic of building robust, scalable, and super user-friendly experiences.
+<div align="center">
+  <a href="https://www.linkedin.com/in/fathurrohman07/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/faturrumahan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-I'm totally stoked about projects that:
+###
 
-Make me go "Whoa, that's clever and simple!" 💡
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=faturrumahan.faturrumahan&"  />
+</div>
 
-Solve problems with a dash of elegance and a whole lot of efficiency. ✨
+###
 
-Are like brain candy – offering opportunities for deep learning and personal growth. 🧠🍬
+<h1 align="center">👋 Hey there, awesome human! Welcome to My Digital Playground! ✨</h1>
 
-✨ What Adventures I'm On Now!
-Currently, I'm channeling my energy into some exciting quests:
+###
 
-Exploring: Getting cozy with Next.js performance optimization (making things lightning-fast! ⚡) and mastering advanced state management patterns in React Native (keeping all those app pieces in perfect harmony! 🎶).
+<p align="center">Take a deep breath, maybe do a little stretch! You've stumbled upon my little corner of the internet where code meets calm, and learning is always an adventure. I'm all about building cool stuff with a sprinkle of intention and a whole lot of good vibes. 🚀</p>
 
-Building: Crafting digital wonders that use modern JavaScript frameworks to create intuitive, impactful, and downright delightful user experiences. Think less "code," more "digital art!" 🧑‍💻
+###
 
-Refining: Sharpening my ninja skills in clean code architecture, conjuring up effective testing strategies (squashing bugs before they even think about appearing! 🐛), and perfecting collaborative development workflows (because teamwork makes the dream work! 🤝).
+<h3 align="left">👩‍💻  About Me</h3>
 
-Every line of code is an opportunity to be present, focused, and maybe even a little bit playful! 😉
+###
 
-🌱 My Code Philosophy: Mindful & Mighty!
-For me, coding is like a mindful puzzle, a creative outlet, and a grand adventure all rolled into one. It demands:
+<p align="left">I'm Fatur from Indonesia<br><br>- 🔭 I’m working as software developer at CSDI<br>- 📚 I'm currently learning anything that i like<br>- ⚡ In my free time I do some exercise</p>
 
-Patience: Especially when the compiler gives me the silent treatment. 🧘
+###
 
-Curiosity: To ask "what if?" and "how can we make this sing?" 🎤
+<h3 align="left">🛠 Language and tools</h3>
 
-Humility: To embrace learning from every stumble and celebrate every small win. 🎉
+###
 
-Intention: To write code that's not just functional, but also a joy to read, maintain, and expand upon. ❤️
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
-I'm a big fan of teamwork! I believe the coolest solutions often bloom when brilliant minds come together, sharing ideas and high-fives. 🙌
+###
 
-🤝 Let's Connect (and Maybe Code!)
-If anything here sparks your interest, or if you just want to chat about tech, share some wisdom, or even kick off an exciting collaboration, don't be a stranger! Let's connect and make some digital magic happen.
+<h3 align="left">🔥   My Stats :</h3>
 
-[[LinkedIn]](https://www.linkedin.com/in/fathurrohman07/)
+###
 
-[[Personal Site]](https://faturrumahan-v3.vercel.app/)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=faturrumahan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-🙏 A Big Thank You!
-Thanks a bunch for dropping by! May your own journey be filled with peace, purpose, and endless, joyful learning. Keep coding, keep smiling! 😊
+###
 
-This README is always evolving, just like my code (and my coffee addiction). ☕
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faturrumahan/faturrumahan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faturrumahan/faturrumahan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faturrumahan/faturrumahan/output/pacman-contribution-graph.svg">
+</picture>
+
+###
